@@ -1,5 +1,6 @@
 
 ## 멤버
+
 CREATE TABLE member(
 member_no NUMBER PRIMARY KEY,
 member_id VARCHAR2(30) NOT NULL UNIQUE,
